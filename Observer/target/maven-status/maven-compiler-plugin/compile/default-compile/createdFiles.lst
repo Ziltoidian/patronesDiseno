@@ -1,0 +1,6 @@
+com\mycompany\observer\App.class
+observer\Observador.class
+observer\PesoMXObservador.class
+observer\SolObservador.class
+observer\Subject.class
+observer\PesoARGObservador.class
